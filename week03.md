@@ -1,0 +1,1 @@
+This week was more difficult than the past two. HTML seems straight-forward, but CSS was a bit harder to understand. I still mostly able to do what I want to for a webpage, but I need to google or keep experimenting with different things until I get the correct result. I can remember what we've talked about the past few days in class but have trouble putting it into practice.
