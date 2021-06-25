@@ -1,0 +1,1 @@
+Week 7 was tough towards the end. I have talked about front-end vs back-end with a friend of mine for a while now, and I expected to prefer back end more. Node makes sense and wasn't too hard to understand, even though it was a lot of information, but Express was definitely a lot. I still think I'll prefer back-end, just need to focus more than usual.

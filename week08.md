@@ -1,0 +1,3 @@
+This week was quite a bit smoother than the last. SQL makes a lot of sense, but I'm prepared for it to get more complicated as the data we use increases and gets more complex. Trying to make fetch requests through back-end but its a bit hard fixing errors when I don't know exactly how the end product should look. Trying my best not to simply copy Sam's example but at least write what I THINK I understand, and let the errors try to fill me in on what I'm missing.
+
+I think I would do a review blog for boxing, weightlifting, or Batman/DC Superheroes in general. I'm sure I could give plenty of random Batman facts that mainstream media, such as blockbuster movies, haven't shown.
