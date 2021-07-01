@@ -1,0 +1,3 @@
+Week 9 was a heavy practice week with a few new things. We now know how to create users, keep track of sessions, and make sure their passwords are secure. Any practice is good with backend, definitely feeling better about everything the more we complete these assignments.
+
+Out of the three options, I think travel would be the best to develop an app around. There would be a lot more things to display on screen for a user, and there could be more options for functionality to make it unique. There's a lot of different reasons one would choose to travel, whether it be food, holidays, or nature.
