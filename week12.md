@@ -1,0 +1,5 @@
+Just finished week 12 and learned a few things in React. I still think I prefer back-end work, but react is definitely a cool framework. The past two days we worked with APIs, so they've been very good. Working with them always seems so simple during our code along, but I have always struggled with them on my own. They seem a lot easier to work with in React, so I think I'll pump out a few more assignments over the weekend with different APIs to get the syntax down.
+
+Feeling more confident about making a career out of this. Already spending a bit of time outside of class every day to work on algorithms. I think of myself as a logical person, so as soon as I get most of the syntax down for JavaScript/Python I'll be super prepared for interviews.
+
+I don't think I ever fully appreciate just how good someone is at their craft until I try to pick it up for myself. Sean, Sam, and Zach are beasts.
