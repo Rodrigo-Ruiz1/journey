@@ -1,0 +1,3 @@
+Week 10 was spent entirely on our back-end projects. I was excited to start these projects. Front-end is cool when it comes to messing around with styling, but I think I enjoy working on the server-side of websites.
+
+Our project did not have too much functionality, but I'm glad we finished what we initially intended to work on. I got a lot more experience planning out our SQL table structure and feel more confident for future projects. Zachary and Immanuel were really solid and dependable group members. First group where we did not have github issues.
